@@ -1,6 +1,10 @@
+ru:
+  languageName: Ru
+  weight: 1
+
 en:
   languageName: English
-  weight: 1
+  weight: 2
 
 zh-hans:
   languageName: 简体中文
