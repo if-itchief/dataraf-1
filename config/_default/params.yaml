@@ -35,7 +35,7 @@ hb:
         - sinaweibo
     sidebar:
       sticky: true # set it to false to not stick the sidebar.
-      width: .35 # the width of sidebar.
+      width: .45 # the width of sidebar.
       position: start # the sidebar position: start (left) or end (right).
       profile:
         # title: Profile title other than site title.
@@ -44,8 +44,8 @@ hb:
         company: COMPANY
         location: Earth
         socials:
-          github: hbstack
-          mastodon: https://techhub.social/@hbstack
+          # github: hbstack
+          # mastodon: https://techhub.social/@hbstack
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
@@ -74,7 +74,7 @@ hb:
           limit: 20
           # title: Popular Tags # override the title.
     paginate: 12 # paginate.
-    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    post_thumbnail_placeholder: DE # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
@@ -122,7 +122,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    short_name: 'DE'
 
 # see https://hugomods.com/search/configurations/.
 search:
