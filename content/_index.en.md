@@ -1,5 +1,5 @@
 ---
-title: HB Cards Theme
+title: DE Cards Theme
 # menu:
 #   main:
 #     name: Home
